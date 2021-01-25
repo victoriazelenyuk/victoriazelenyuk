@@ -22,7 +22,7 @@ RMIT University
 - Autodesk Maya
 - Visual Studio Code 
 
-### 🧠 Currently Learning
+### 📚 Currently Learning
 - HTML
 - CSS
 - BootStrap
