@@ -11,7 +11,7 @@ Generation Australia
 - Bachelor of Design (Games) 2020
 RMIT University
 
-###💻 Specializing in:
+### 💻 Specializing in:
 - Graphic and Game Design
 - Digital Concepts and Illustrations
 - Web Design and Development
@@ -22,7 +22,7 @@ RMIT University
 - Autodesk Maya
 - Visual Studio Code 
 
-### 🧠 Learning
+### 🧠 Currently Learning
 - HTML
 - CSS
 - BootStrap
