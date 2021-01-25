@@ -5,11 +5,9 @@ Currently studying as a full-time student as part of the Junior Web Developer pr
 Open to opportunities! 
 
 ### 📜 Education:
-- Junior Web Developer Programme
-Generation Australia
+- Junior Web Developer Programme - Generation Australia
 
-- Bachelor of Design (Games) 2020
-RMIT University
+- Bachelor of Design (Games) 2020 - RMIT University
 
 ### 💻 Specializing in:
 - Graphic and Game Design
@@ -27,6 +25,5 @@ RMIT University
 - CSS
 - BootStrap
 - JavaScript
-
 - Adobe After Affects 
 - Adobe Premiere Pro
